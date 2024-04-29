@@ -22,4 +22,5 @@
 <h2>And here you can find some of my projects, that I mostly proud of...</h2><br>
 
 <h2>And finally don't miss out my stats...</h2>
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=matinanad)](https://github.com/KnlnKS/leetcode-stats)
+<img src="https://leetcard.jacoblin.cool/matinanad?theme=dark" />
+
