@@ -27,5 +27,7 @@
  &nbsp;🖥️code: <a href="https://github.com/matinanadali/quiz-app">here</a>
  &nbsp;🎈try it out: <a href="https://starlit-daffodil-2e4733.netlify.app/">here</a>
 <h2>Finally, don't miss out my stats...</h2>
+<div align="center">
 <img src="https://leetcard.jacoblin.cool/matinanad?theme=dark" />
+</div>
 
