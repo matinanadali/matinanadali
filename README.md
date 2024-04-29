@@ -21,8 +21,11 @@
 </div>
 <h2>And here you can find some of my projects, that I mostly proud of...</h2>
 <h4>-Visualization and comparison of path searching algorithms</h4>
- &nbsp;🖥️code: <a target="__blank" href="https://github.com/matinanadali/visualization_and_comparison_of_path_searching_algorithms">here</a>
- &nbsp;🎈try it out: <a target="__blank" href="https://monumental-cassata-043f0c.netlify.app/">here</a>
+ &nbsp;🖥️code: <a href="https://github.com/matinanadali/visualization_and_comparison_of_path_searching_algorithms">here</a>
+ &nbsp;🎈try it out: <a href="https://monumental-cassata-043f0c.netlify.app/">here</a>
+ <h4>-Quiz App: IP class 2023-2024</h4>
+ &nbsp;🖥️code: <a href="https://github.com/matinanadali/quiz-app">here</a>
+ &nbsp;🎈try it out: <a href="https://starlit-daffodil-2e4733.netlify.app/">here</a>
 <h2>And finally don't miss out my stats...</h2>
 <img src="https://leetcard.jacoblin.cool/matinanad?theme=dark" />
 
