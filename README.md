@@ -2,7 +2,7 @@
 <h2>So glad to see you here! Here is some information about me...</h2>
 👩‍🎓 At the moment I am studying Computer Science in the University of Athens.  <br><br>
 🌱 I’m currently learning <a href="https://k08.chatzi.org/">Data Structures</a> and <a href="https://uoa-di.web.app/">Algorithmic Problem Solving</a>. <br><br>
-👀 I am particularly interested in the design and implementation of efficient algorithms and fascinated by the idea that one can prove that such algorithms don't always exist! <br><br>
+👀 I am interested in the design and implementation of efficient algorithms and fascinated by the idea that one can prove that such algorithms don't always exist! <br><br>
 🎯 My primary objective is to be admitted for a Master's degree in Theoritical Computer Science and Algorithmic Design, by a prestigious university and to pursue a successful carreer abroad.
 
 <h2>Here are the programming languages I know...</h2><br>
