@@ -19,7 +19,7 @@
   &nbsp; &nbsp;
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/>
 </div>
-<h2>And here you can find some of my projects, that I most proud of...</h2>
+<h2>And here you can find some of my projects, that I am most proud of...</h2>
 <h4>-Visualization and comparison of path searching algorithms</h4>
  &nbsp;🖥️code: <a href="https://github.com/matinanadali/visualization_and_comparison_of_path_searching_algorithms">here</a>
  &nbsp;🎈try it out: <a href="https://monumental-cassata-043f0c.netlify.app/">here</a>
