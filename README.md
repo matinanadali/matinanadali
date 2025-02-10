@@ -1,9 +1,9 @@
 <h1>Hi, I’m Matina! 👋 👩‍💻</h1>
 
 👩‍🎓 At the moment I am studying Computer Science in the University of Athens.  <br><br>
-🌱 I’m currently learning Object Oriented Programming and Artificial Intelligence. <br><br>
+🌱 I’m currently learning Computational Machine Learning Theory and Artificial Intelligence II: Deep Learning for Natural Language Processing. <br><br>
 👀 I am interested in the design of efficient algorithms and fascinated by the idea that one can prove that such algorithms don't always exist! <br><br>
-🎯 My primary objective is to be admitted for a Master's degree in Theoritical Computer Science and Algorithmic Design, by a prestigious university and to pursue a carreer abroad.
+🎯 My primary goal at the moment is to continue my postgraduate studies in Medical Informatics.
 
 <h2>Here are the programming languages I know...</h2><br>
 <div align="center">
