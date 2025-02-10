@@ -27,8 +27,5 @@
  &nbsp;🖥️code: <a href="https://github.com/mgiannopoulos24/Prog-Intro-Lectures">here</a>
  &nbsp;🎈try it out: <a href="https://progintrolectures.netlify.app/">here</a>
  &nbsp; :raised_hands: worked with: <a href="https://github.com/mgiannopoulos24">mgiannopoulos24</a>
-<h2>Finally, don't miss out my stats on LeetCode...</h2>
-<div align="center">
-<img src="https://leetcard.jacoblin.cool/matinanad?theme=dark" />
-</div>
+
 
